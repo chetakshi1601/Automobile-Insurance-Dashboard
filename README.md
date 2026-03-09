@@ -2,7 +2,7 @@
 
 Automobile Insurance Dashboard 
 
-1: Overview Dashboard
+# 1: Overview Dashboard
 
 This page provides a high-level summary of the automobile insurance dataset.
 
@@ -29,7 +29,8 @@ The Yearly Complaint Trend chart highlights how customer complaints fluctuate ov
 👉 This page helps users quickly understand the overall industry performance and complaint volume.
 
 
-2: Complaint Status Analysis
+
+# 2: Complaint Status Analysis
 
 This page focuses on how complaints are resolved.
 
@@ -54,7 +55,8 @@ The Complaint Status by Year chart shows how the proportion of complaint types c
 👉 This page helps analyze customer dispute outcomes and company complaint handling efficiency.
 
 
-3: Company Comparison Analysis
+
+# 3: Company Comparison Analysis
 
 This page compares different insurance companies based on complaint volume.
 
@@ -83,7 +85,8 @@ The Top 5 company comparison chart highlights companies that may need to improve
 👉 This page helps identify companies with the highest customer dissatisfaction.
 
 
-4: Premium Trend Analysis
+
+# 4: Premium Trend Analysis
 
 This page focuses on insurance premium growth over time.
 
@@ -106,7 +109,8 @@ Comparing premium growth with complaint trends helps understand whether business
 👉 This page helps evaluate financial performance of the insurance industry.
 
 
- 5: Complaint Trend & Forecast
+
+ # 5: Complaint Trend & Forecast
 
 This page analyzes complaint patterns and predicts future trends.
 
